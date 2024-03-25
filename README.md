@@ -6,7 +6,7 @@
                    <!-- Content for the left side -->
                    <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=990099&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=600&height=140&lines=Hi+there+👋;I'm+Ibrahim" width="100%" />
                    <br><br>
-                   <pre>
+                   <pre align="left" >
                        💼 Back-end dev 
                        💻 System programming languages 
                        📖 Software engineer
@@ -16,9 +16,8 @@
                    <div align="center">
                     <img src="https://github.com/20193663/20193663/blob/main/assets/kyubey.gif" height="50" width: 200%; />
                     <br><br>
-                    <a href="http://linkedin.com/in/ibrahim-ayman-89889324b">
-                      <img src="https://img.shields.io/badge/linkedin-0a66c2" alt="LinkedIn Badge">
-                    </a>
+                    <img src="https://img.shields.io/badge/LinkedIn-gray?style=for-the-badge&logo=LinkedIn&logoColor=0a66c2&link=http%3A%2F%2Flinkedin.com%2Fin%2Fibrahim-ayman-89889324b" alt="LinkedIn Badge"/>
+                    <img src="https://komarev.com/ghpvc/?username=20193663&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="profile views"/>
                    </div>
                </div>
             </td>
