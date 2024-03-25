@@ -27,20 +27,20 @@ jobs:
       - name: Install svgexport
         run: npm install -g svgexport
 
-      # Ensure dist directory exists with correct permissions
-      - name: Prepare dist directory
-        run: mkdir -p dist && chmod -R 777 dist
+      # Ensure output directory exists
+      - name: Create output directory
+        run: mkdir -p gifs
 
       # Convert SVG to GIF
       - name: Convert SVG to GIF
-        run: svgexport dist/github-contribution-grid-snake.svg dist/github-contribution-grid-snake.gif gif
+        run: svgexport dist/github-contribution-grid-snake.svg gifs/github-contribution-grid-snake.gif gif
 
       # Deploy the GIF file
       - name: Deploy GIF file
         uses: crazy-max/ghaction-github-pages@v2.1.3
         with:
           target_branch: output
-          build_dir: dist
-          gif_path: dist/github-contribution-grid-snake.gif
+          build_dir: gifs
+          gif_path: gifs/github-contribution-grid-snake.gif
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
