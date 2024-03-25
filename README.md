@@ -1,5 +1,5 @@
 <div align="center">
-    <table style="background: transparent; border-style: hidden !important;">
+    <table style="background: transparent; border-style: hidden!important; border: none!important">
         <tr>
             <td>
                <div>
