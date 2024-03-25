@@ -33,5 +33,5 @@
         </tr>
     </table>
 </div>
-
+<!--<img src="https://github.com/20193663/20193663/blob/output/github-contribution-grid-snake.gif"/>-->
 ![Snake animation](https://github.com/20193663/20193663/blob/output/github-contribution-grid-snake.svg)
