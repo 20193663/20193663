@@ -31,6 +31,10 @@ jobs:
       - name: Convert SVG to GIF
         run: svgexport dist/github-contribution-grid-snake.svg dist/github-contribution-grid-snake.gif gif
 
+      # Adjust permissions for the output directory
+      - name: Adjust permissions for output directory
+        run: chmod -R 777 dist
+
       - uses: crazy-max/ghaction-github-pages@v2.1.3
         with:
           target_branch: output
