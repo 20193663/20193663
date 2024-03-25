@@ -16,8 +16,8 @@
                    <div align="center">
                     <img src="https://github.com/20193663/20193663/blob/main/assets/kyubey.gif" height="50" width: 200%; />
                     <br><br>
-                    <img src="https://img.shields.io/badge/LinkedIn-gray?style=for-the-badge&logo=LinkedIn&logoColor=0a66c2&link=http%3A%2F%2Flinkedin.com%2Fin%2Fibrahim-ayman-89889324b" alt="LinkedIn Badge"/>
-                    <img src="https://komarev.com/ghpvc/?username=20193663&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="profile views"/>
+                    <img src="https://img.shields.io/badge/LinkedIn-gray?style=flat&logo=LinkedIn&logoColor=0a66c2&link=http%3A%2F%2Flinkedin.com%2Fin%2Fibrahim-ayman-89889324b" alt="LinkedIn Badge"/>
+                    <img src="https://komarev.com/ghpvc/?username=20193663&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
                    </div>
                </div>
             </td>
