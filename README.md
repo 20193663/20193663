@@ -1,12 +1,3 @@
-<style>
-  @keyframes reverseAnimation {
-    0% { transform: scaleX(-1); }
-    100% { transform: scaleX(1); }
-  }
-  .reverse-gif {
-    animation: reverseAnimation 1s linear reverse;
-  }
-</style>
 <div align="center">
     <table style="background: transparent; border-style: hidden!important; border: none!important">
         <tr>
