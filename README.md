@@ -1,3 +1,12 @@
+<style>
+  @keyframes reverseAnimation {
+    0% { transform: scaleX(-1); }
+    100% { transform: scaleX(1); }
+  }
+  .reverse-gif {
+    animation: reverseAnimation 1s linear reverse;
+  }
+</style>
 <div align="center">
     <table style="background: transparent; border-style: hidden!important; border: none!important">
         <tr>
@@ -14,7 +23,8 @@
                        🍵 Espresso ☕ • Cake & Cookie
                    </pre>
                    <div align="center">
-                    <img src="https://github.com/20193663/20193663/blob/main/assets/kyubey.gif" height="50" width: 200%; />
+                    <img src="https://github.com/20193663/20193663/blob/main/assets/kyubey.gif" height="50" width: 200% />
+                    <img src="https://github.com/20193663/20193663/blob/main/assets/kyubey-r.gif" height="50" width: 200% />
                     <br><br>
                     <img src="https://img.shields.io/badge/LinkedIn-gray?style=flat&logo=LinkedIn&logoColor=0a66c2&link=http%3A%2F%2Flinkedin.com%2Fin%2Fibrahim-ayman-89889324b" alt="LinkedIn Badge"/>
                     <img src="https://komarev.com/ghpvc/?username=20193663&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
